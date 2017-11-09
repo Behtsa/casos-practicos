@@ -1,0 +1,22 @@
+body {
+	margin-top: 0px;
+}
+.yellow, .gray {
+	margin: 10px;
+	margin-top: 0px;
+	padding: 5px 10px 5px 10px;
+	height: 80px;
+	width: auto;
+	display: inline-block;
+	height: auto;
+}
+
+.yellow {
+	background-color: #F7B617;
+
+}
+
+.gray {
+	background-color: #2B2B2B;
+	color: white;
+}
